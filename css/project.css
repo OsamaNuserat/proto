@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap');
+h2 {
+   
+    text-align: center;
+    color: black;
+    font-size: 30px;
+    margin: 25px;
+}
+.container1, .container2, .container3 {
+    display:flex ;
+    justify-content: center;
+    gap: 25px;
+}
+.video1, .video2 {
+    margin-top: 20px;
+}
